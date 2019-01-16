@@ -1,0 +1,14 @@
+**/*.pyc
+.idea/
+**/*~
+*/build/*
+gradle*
+libs/
+local.properties
+android.iml
+.gradle/
+android/assets/*
+tf_files/bottlenecks/*
+tf_files/flower_photos/*
+tf_files/model/*
+tf_files/training_summaries/*
